@@ -20,5 +20,5 @@ More info about dataset can be found here:-
 # Data Model:-
 ![data_model](https://github.com/user-attachments/assets/0401efa9-1950-4318-a287-1b2a42868bee)
 
-# Visualized_Output:-
+# Output:-
 ![Output](https://github.com/user-attachments/assets/c5cf8836-3cd0-41b2-8238-006e43eae273)
