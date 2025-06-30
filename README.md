@@ -1,5 +1,5 @@
 # Project_Description:-
-In this Project,our goal is to compute Data Analysis of Uber taxi data where we would be loading the data from Excel, transforming the data through Python along with it's libaries and extracting the cleaned data to a new excel file and using that data again for visualization through Power BI to create dashboards.
+In this Project,our goal is to compute Data Analysis of Uber taxi data where we would be loading the data from Excel, transforming the data through Python along with it's libaries and extracting the cleaned data to SQL Server and integrate the data stored in SQL Server with visualization tool through Power BI to create dashboards.
 
 # Architecture:-
 ![Project_Architecture](https://github.com/user-attachments/assets/f0b3bac0-76e5-48ec-a9c2-e17467ec495a)
