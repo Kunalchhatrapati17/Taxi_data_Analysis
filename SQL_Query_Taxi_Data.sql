@@ -1,0 +1,1 @@
+Select * from dbo.Fact_Trips_Data;
