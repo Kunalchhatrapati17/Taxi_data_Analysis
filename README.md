@@ -22,5 +22,8 @@ More info about dataset can be found here:-
 # Data Model:-
 ![data_model](https://github.com/user-attachments/assets/0401efa9-1950-4318-a287-1b2a42868bee)
 
+# Future Scope:-
+In the future, i would be trying to load the data onto Azure blob storage and with the help of ADF i would be using Azure Datafactory to connect it to Power Bi for accessing how to connect it with cloud and storing data onto the cloud rather than on local machine.
+
 # Output:-
 ![Output](https://github.com/user-attachments/assets/c5cf8836-3cd0-41b2-8238-006e43eae273)
